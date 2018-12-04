@@ -10,7 +10,7 @@
 ## Full Decentralization and Byzantine Fault Tolerance
 - In BigchainDB 2.0, each node has its own local MongoDB database [5], and all communication between nodes is done using Tendermint protocols.
 
-```
+```node
 Tendermint: Tendermint is software for securely and consistently replicating an application on many machines. . By securely, we mean that Tendermint works even if up to 1/3 of machines fail in arbitrary ways. By consistently, we mean that every non-faulty machine sees the same transaction log and computes the same state.
 ```
 
@@ -34,7 +34,7 @@ different person or entity, then it’s a decentralized network. Any node can fa
 - Only the owner (or owners) of an asset can transfer that asset.
 - BigchainDB allows external users to create as many assets.
 
-```
+```node
 An asset in blockchain is a type of value that can be issued on a blockchain. All units of a given asset are fungible. Each asset has a globally unique asset ID that is derived from an issuance program. Each asset can optionally include an asset definition consisting of arbitrary key-value data. The asset definition is committed to the blockchain for all participants to see.
 ```
 
