@@ -37,3 +37,5 @@ different person or entity, then it’s a decentralized network. Any node can fa
 [Beginner’s Guide to Tendermint: Byzantine Fault Tolerant Blockchain Engine](https://blockonomi.com/tendermint-guide/)
 
 [Blockchain Scaling Solutions: Cosmos and Plasma](https://medium.com/tendermint/blockchain-scaling-solutions-cosmos-and-plasma-b5ee09456f80)
+
+[Bigchain](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf)
